@@ -1,0 +1,13 @@
+C:\Users\Anil Allam\source\repos\largest of three numbers\largest of three numbers\obj\Debug\netcoreapp3.1\largest of three numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anil Allam\source\repos\largest of three numbers\largest of three numbers\obj\Debug\netcoreapp3.1\largest of three numbers.AssemblyInfoInputs.cache
+C:\Users\Anil Allam\source\repos\largest of three numbers\largest of three numbers\obj\Debug\netcoreapp3.1\largest of three numbers.AssemblyInfo.cs
+C:\Users\Anil Allam\source\repos\largest of three numbers\largest of three numbers\obj\Debug\netcoreapp3.1\largest of three numbers.csproj.CoreCompileInputs.cache
+C:\Users\Anil Allam\source\repos\largest of three numbers\largest of three numbers\bin\Debug\netcoreapp3.1\largest of three numbers.exe
+C:\Users\Anil Allam\source\repos\largest of three numbers\largest of three numbers\bin\Debug\netcoreapp3.1\largest of three numbers.deps.json
+C:\Users\Anil Allam\source\repos\largest of three numbers\largest of three numbers\bin\Debug\netcoreapp3.1\largest of three numbers.runtimeconfig.json
+C:\Users\Anil Allam\source\repos\largest of three numbers\largest of three numbers\bin\Debug\netcoreapp3.1\largest of three numbers.runtimeconfig.dev.json
+C:\Users\Anil Allam\source\repos\largest of three numbers\largest of three numbers\bin\Debug\netcoreapp3.1\largest of three numbers.dll
+C:\Users\Anil Allam\source\repos\largest of three numbers\largest of three numbers\bin\Debug\netcoreapp3.1\largest of three numbers.pdb
+C:\Users\Anil Allam\source\repos\largest of three numbers\largest of three numbers\obj\Debug\netcoreapp3.1\largest of three numbers.dll
+C:\Users\Anil Allam\source\repos\largest of three numbers\largest of three numbers\obj\Debug\netcoreapp3.1\largest of three numbers.pdb
+C:\Users\Anil Allam\source\repos\largest of three numbers\largest of three numbers\obj\Debug\netcoreapp3.1\largest of three numbers.genruntimeconfig.cache
