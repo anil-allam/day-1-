@@ -1,0 +1,13 @@
+C:\Users\Anil Allam\source\repos\star\star\bin\Debug\netcoreapp3.1\star.exe
+C:\Users\Anil Allam\source\repos\star\star\bin\Debug\netcoreapp3.1\star.deps.json
+C:\Users\Anil Allam\source\repos\star\star\bin\Debug\netcoreapp3.1\star.runtimeconfig.json
+C:\Users\Anil Allam\source\repos\star\star\bin\Debug\netcoreapp3.1\star.runtimeconfig.dev.json
+C:\Users\Anil Allam\source\repos\star\star\bin\Debug\netcoreapp3.1\star.dll
+C:\Users\Anil Allam\source\repos\star\star\bin\Debug\netcoreapp3.1\star.pdb
+C:\Users\Anil Allam\source\repos\star\star\obj\Debug\netcoreapp3.1\star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anil Allam\source\repos\star\star\obj\Debug\netcoreapp3.1\star.AssemblyInfoInputs.cache
+C:\Users\Anil Allam\source\repos\star\star\obj\Debug\netcoreapp3.1\star.AssemblyInfo.cs
+C:\Users\Anil Allam\source\repos\star\star\obj\Debug\netcoreapp3.1\star.csproj.CoreCompileInputs.cache
+C:\Users\Anil Allam\source\repos\star\star\obj\Debug\netcoreapp3.1\star.dll
+C:\Users\Anil Allam\source\repos\star\star\obj\Debug\netcoreapp3.1\star.pdb
+C:\Users\Anil Allam\source\repos\star\star\obj\Debug\netcoreapp3.1\star.genruntimeconfig.cache
