@@ -1,0 +1,13 @@
+C:\Users\Anil Allam\source\repos\number pattern\number pattern\obj\Debug\netcoreapp3.1\number pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anil Allam\source\repos\number pattern\number pattern\obj\Debug\netcoreapp3.1\number pattern.AssemblyInfoInputs.cache
+C:\Users\Anil Allam\source\repos\number pattern\number pattern\obj\Debug\netcoreapp3.1\number pattern.AssemblyInfo.cs
+C:\Users\Anil Allam\source\repos\number pattern\number pattern\obj\Debug\netcoreapp3.1\number pattern.csproj.CoreCompileInputs.cache
+C:\Users\Anil Allam\source\repos\number pattern\number pattern\bin\Debug\netcoreapp3.1\number pattern.exe
+C:\Users\Anil Allam\source\repos\number pattern\number pattern\bin\Debug\netcoreapp3.1\number pattern.deps.json
+C:\Users\Anil Allam\source\repos\number pattern\number pattern\bin\Debug\netcoreapp3.1\number pattern.runtimeconfig.json
+C:\Users\Anil Allam\source\repos\number pattern\number pattern\bin\Debug\netcoreapp3.1\number pattern.runtimeconfig.dev.json
+C:\Users\Anil Allam\source\repos\number pattern\number pattern\bin\Debug\netcoreapp3.1\number pattern.dll
+C:\Users\Anil Allam\source\repos\number pattern\number pattern\bin\Debug\netcoreapp3.1\number pattern.pdb
+C:\Users\Anil Allam\source\repos\number pattern\number pattern\obj\Debug\netcoreapp3.1\number pattern.dll
+C:\Users\Anil Allam\source\repos\number pattern\number pattern\obj\Debug\netcoreapp3.1\number pattern.pdb
+C:\Users\Anil Allam\source\repos\number pattern\number pattern\obj\Debug\netcoreapp3.1\number pattern.genruntimeconfig.cache
